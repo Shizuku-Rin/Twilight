@@ -1,28 +1,20 @@
 {
-    "title": "Twilight",
-    "description": "My first open source template project, a CMS integrated blog template built with Astro framework.",
-    "type": "project",
-    "startDate": "2025-10-01",
-    "endDate": "",
-    "skills": [
-        "Astro",
-        "Svelte",
-        "Tailwind CSS"
-    ],
-    "achievements": [],
-    "links": [
-        {
-            "name": "Online Demo",
-            "url": "https://twilight.spr-aachen.com",
-            "type": "project"
-        },
-        {
-            "name": "GitHub Repository",
-            "url": "https://github.com/Spr-Aachen/Twilight",
-            "type": "project"
-        }
-    ],
-    "icon": "material-symbols:code",
-    "color": "#7C3AED",
-    "featured": true
+  "title": "Twilight",
+  "description": "一切的起点",
+  "type": "education",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-20",
+  "location": "Anhui",
+  "skills": [
+    "From ZERO"
+  ],
+  "links": [
+    {
+      "name": "GitHub Repository",
+      "url": "https://github.com/Shizuku-Rin/Twilight",
+      "type": "project"
+    }
+  ],
+  "icon": "material-symbols:code",
+  "color": "#7C3AED"
 }

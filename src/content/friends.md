@@ -4,7 +4,7 @@ title: Friends
 
 ## How to Apply
 
-Please send your website information to: xxx@xxx.com
+Please send your website information to: shizukurin@foxmail.com
 
 Email Subject:
 ```
